@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="210.04741mm"
+   height="296.4371mm"
+   viewBox="0 0 210.04741 296.4371"
    version="1.1"
    id="svg1"
    inkscape:export-filename="LOGO.svg"
@@ -25,10 +25,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm">
     <inkscape:page
-       x="0"
+       x="-5.1456113e-17"
        y="0"
-       width="210"
-       height="297"
+       width="210.04739"
+       height="296.4371"
        id="page2"
        margin="0"
        bleed="0" />
@@ -38,7 +38,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="OZADJA">
+     inkscape:label="OZADJA"
+     transform="translate(-0.01627026,-0.26821515)">
     <rect
        style="opacity:0.186691;fill:#ffce04;fill-opacity:1;fill-rule:evenodd;stroke-width:0.50864;stroke-dasharray:none"
        id="rect21"
@@ -47,22 +48,12 @@
        x="0.016270261"
        y="0.26821512"
        sodipodi:type="rect" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:0.9;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.186691;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:1.6;stroke-dasharray:none"
-       x="104.24583"
-       y="288.92502"
-       id="text23"><tspan
-         sodipodi:role="line"
-         id="tspan23"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:1.6"
-         x="105.07265"
-         y="288.92502">računalniška_grafika © 2025 by Mirjam is licensed under CC BY 4.0 </tspan></text>
   </g>
   <g
      inkscape:label="Plast 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-0.01627026,-0.26821515)">
     <g
        id="g16"
        transform="matrix(1.6564277,0,0,1.5441957,-13.55792,-18.271047)"
